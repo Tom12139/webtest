@@ -66,7 +66,7 @@ module.exports = configure(function (/* ctx */) {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      // publicPath: '/',
+      publicPath: 'app-extension-qmarkdown',
       // analyze: true,
       // env: {},
       // rawDefine: {}
