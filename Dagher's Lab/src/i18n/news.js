@@ -1,6 +1,6 @@
 export const news = [
   ['Neuro Appreciation day in 2022',
-    '../assets/newsPhoto/Neuro Appreciationdayin2022.jpg',
+    '../assets/newsPhoto/NeuroAppreciationdayin2022.jpg',
     ' ',
     'content here'
   ],
