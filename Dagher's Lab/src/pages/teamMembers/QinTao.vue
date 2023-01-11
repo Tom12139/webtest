@@ -5,7 +5,7 @@
             <p class="text-h3 q-ml-md" style="width:100%">Team</p>
             <p class="text-h4 q-ma-md text-blue-grey-9" style="width:100%">Member:</p>
             <div class="q-ma-md" style="width:100%">
-              <q-img class="float-left q-ma-md" src="~/assets/Team/Qin Tao.jpg" style="width:25%;min-width:300px;"></q-img>
+              <q-img class="float-left q-ma-md" src="~/assets/Team/QinTao.jpg" style="width:25%;min-width:300px;"></q-img>
               <p class="text-h4">Qin Tao</p>
               <div class="float-right vertical-top">
                 <q-btn-dropdown label="contact me" dropdown-icon="change_history">
